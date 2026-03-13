@@ -83,7 +83,7 @@ Users can filter the dashboard using:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](<img width="815" height="571" alt="Image" src="https://github.com/user-attachments/assets/23798230-0f64-4cfd-b453-54305c9f7cba" />)
+<img width="815" height="571" alt="Image" src="https://github.com/user-attachments/assets/e2936f80-3064-497b-8df8-46634d05317a" />
 
 ---
 
